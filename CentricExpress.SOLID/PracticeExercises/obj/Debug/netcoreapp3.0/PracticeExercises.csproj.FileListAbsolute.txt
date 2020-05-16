@@ -1,0 +1,3 @@
+C:\Users\afolvait\source\repos\CentricExpress.SOLID\PracticeExercises\obj\Debug\netcoreapp3.0\PracticeExercises.csprojAssemblyReference.cache
+C:\Users\afolvait\source\repos\CentricExpress.SOLID\PracticeExercises\obj\Debug\netcoreapp3.0\PracticeExercises.AssemblyInfoInputs.cache
+C:\Users\afolvait\source\repos\CentricExpress.SOLID\PracticeExercises\obj\Debug\netcoreapp3.0\PracticeExercises.AssemblyInfo.cs

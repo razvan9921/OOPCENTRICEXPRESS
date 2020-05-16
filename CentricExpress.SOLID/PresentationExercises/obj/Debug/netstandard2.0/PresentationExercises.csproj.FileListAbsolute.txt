@@ -1,0 +1,8 @@
+C:\Users\afolvait\source\repos\CentricExpress.SOLID\PresentationExercises\bin\Debug\netstandard2.0\PresentationExercises.deps.json
+C:\Users\afolvait\source\repos\CentricExpress.SOLID\PresentationExercises\bin\Debug\netstandard2.0\PresentationExercises.dll
+C:\Users\afolvait\source\repos\CentricExpress.SOLID\PresentationExercises\bin\Debug\netstandard2.0\PresentationExercises.pdb
+C:\Users\afolvait\source\repos\CentricExpress.SOLID\PresentationExercises\obj\Debug\netstandard2.0\PresentationExercises.csprojAssemblyReference.cache
+C:\Users\afolvait\source\repos\CentricExpress.SOLID\PresentationExercises\obj\Debug\netstandard2.0\PresentationExercises.AssemblyInfoInputs.cache
+C:\Users\afolvait\source\repos\CentricExpress.SOLID\PresentationExercises\obj\Debug\netstandard2.0\PresentationExercises.AssemblyInfo.cs
+C:\Users\afolvait\source\repos\CentricExpress.SOLID\PresentationExercises\obj\Debug\netstandard2.0\PresentationExercises.dll
+C:\Users\afolvait\source\repos\CentricExpress.SOLID\PresentationExercises\obj\Debug\netstandard2.0\PresentationExercises.pdb
